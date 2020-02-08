@@ -10,10 +10,10 @@ Shuffle Me - Web based Music Player application
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JQuery](https://jquery.com/)
 
-#### Contributed by:
--[Amish Bharti]
--[Sayan Pal]
--[Shaon Debnath]
+#### Contributed By:
+- [Amish Bhrti](https://github.com/amish1999)
+- [Sayan Pal]
+- [Shaon Debnath]
 
 
 
