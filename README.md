@@ -11,7 +11,7 @@ Shuffle Me - Web based Music Player application
 - [JQuery](https://jquery.com/)
 
 #### Contributed By:
-- [Amish Bhrti](https://github.com/amish1999)
+- [Amish Bharti](https://github.com/amish1999)
 - [Sayan Pal]
 - [Shaon Debnath]
 
